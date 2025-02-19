@@ -16,7 +16,7 @@ body {
 .container {
 
     text-align: center;
-    background-color: yellow;
+    background-color: #fff;
     padding: 30px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -33,7 +33,7 @@ input, button {
 
 button {
     cursor: pointer;
-    background-color: #4CAF50;
+    background-color: yellow;
     color: white;
 }
 
